@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "web projects",
+			"path": "."
+		}
+	],
+	"settings": {
+		"C_Cpp.exclusionPolicy": "checkFilesAndFolders"
+	}
+}
