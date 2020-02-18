@@ -1,0 +1,64 @@
+body {
+    background-image: url("C:/users/Muli Ann/Documents/web projects/self/1253634643.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.nav {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    z-index: 1000;
+}
+
+.text-icon {
+    list-style: none;
+    text-decoration: none;
+}
+
+.text-icon:hover {
+    background-color: #ec4f34;
+}
+
+.nav>ul {
+    display: inline-flex;
+}
+
+.nav>ul>li:hover {
+    background-color: #ec4f34;
+    opacity: 0.7;
+}
+
+.nav>ul>li {
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav>ul>li>a {
+    padding: 120px;
+    color: #ffffff;
+    border-style: hidden;
+}
+
+.box {
+    list-style: none;
+    color: #ffffff;
+    text-underline-position: auto;
+    border-color: #ec4f34;
+    border-style: groove;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+td {
+    border-radius: 10px;
+}
+
+.source {
+    list-style-image: url(" C:/Muli Ann/Documents/web projects/self/self5.png");
+    text-align: bottom;
+}
